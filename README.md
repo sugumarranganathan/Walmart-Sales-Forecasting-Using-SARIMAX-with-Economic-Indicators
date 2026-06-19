@@ -141,13 +141,12 @@ The forecast trend indicates stable weekly sales with moderate fluctuations infl
 
 ## Conclusion
 
-This project demonstrates the effectiveness of SARIMAX for retail sales forecasting by incorporating external economic indicators. The model successfully captures relationships between sales and macroeconomic factors, providing valuable insights for demand planning, inventory management, and business decision-making.
+This project demonstrates the effectiveness of SARIMAX for retail sales forecasting by incorporating external economic indicators. 
+The model successfully captures relationships between sales and macroeconomic factors, providing valuable insights for demand planning, inventory management,
+and business decision-making.
 
 ---
 
 ## Prepared by
 
 Sugumar Ranganathan
-
-
-GitHub: Sugumar Ranganathan
