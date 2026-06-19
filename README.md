@@ -2,8 +2,6 @@
 
 https://colab.research.google.com/drive/1jWjxn0pWrVGjZnD-rkbY13_Zyz5ZoL1-#scrollTo=1e2QSho1uDbP
 
-# Walmart Weekly Sales Forecasting Using SARIMAX with Economic Indicators
-
 ## Project Overview
 
 This project focuses on forecasting Walmart weekly sales using the SARIMAX (Seasonal AutoRegressive Integrated Moving Average with Exogenous Variables) model. The model incorporates historical sales data along with external economic indicators such as Fuel Price, Consumer Price Index (CPI), Unemployment Rate, Temperature, and Holiday effects to improve forecasting performance.
